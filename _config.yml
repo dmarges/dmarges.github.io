@@ -1,0 +1,30 @@
+name: Don Marges
+bio: 'Ruby and Ruby on Rails Developer'
+picture: 'assets/images/profile.jpg'
+
+url: http://www.donmarges.io
+# your url: http://USERNAME.github.io/
+permalink: /:title/
+
+analytics: 'UA-54510233-1'
+linkedin: https://ca.linkedin.com/in/dmarges
+github: https://github.com/dmarges/
+email: donniemarges@gmail.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
