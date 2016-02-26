@@ -2,13 +2,13 @@ name: Don Marges
 bio: 'Ruby and Ruby on Rails Developer'
 picture: 'assets/images/profile.jpg'
 
-url: http://www.dmarges.github.io
+url: http://dmarges.github.io
 # your url: http://USERNAME.github.io/
 permalink: /:title/
 
 analytics: 'UA-54510233-1'
 linkedin: https://ca.linkedin.com/in/dmarges
-github: https://github.com/dmarges/
+github: dmarges
 email: donniemarges@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
