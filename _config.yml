@@ -2,7 +2,7 @@ name: Don Marges
 bio: 'Ruby and Ruby on Rails Developer'
 picture: 'assets/images/profile.jpg'
 
-url: http://dmarges.github.io
+url: http://dmarges.github.io/
 # your url: http://USERNAME.github.io/
 permalink: /:title/
 
