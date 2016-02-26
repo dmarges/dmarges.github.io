@@ -6,6 +6,8 @@ url: http://dmarges.github.io/
 # your url: http://USERNAME.github.io/
 permalink: /:title/
 
+future: true
+
 analytics: 'UA-54510233-1'
 linkedin: https://ca.linkedin.com/in/dmarges
 github: dmarges
