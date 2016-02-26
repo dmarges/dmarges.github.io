@@ -9,7 +9,7 @@ permalink: /facebook-is-working-on-a-type-checker-for-javascript/
 categories:
   - JavaScript
 tags:
-  - @scale
+  - scale
   - facebook
   - flow
   - javascript static type
