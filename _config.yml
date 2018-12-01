@@ -1,6 +1,20 @@
 name: Don Marges
 bio: 'Pragmatic Software Developer'
 picture: 'assets/images/profile.jpg'
+airhockey: 'assets/images/portfolio/airhockey.png'
+connectedcity: 'assets/images/portfolio/connectedcity.png'
+connectedlandlord: 'assets/images/portfolio/connectedlandlord.png'
+delta7: 'assets/images/portfolio/delta7.png'
+myexpensejournal: 'assets/images/portfolio/myexpensejournal.png'
+nationalpost: 'assets/images/portfolio/nationalpost.png'
+physjs: 'assets/images/portfolio/physjs.png'
+studymagazine: 'assets/images/portfolio/studymagazine.png'
+theprovince: 'assets/images/portfolio/theprovince.png'
+totemteardown: 'assets/images/portfolio/totemteardown.png'
+
+airhockeylink: 'assets/airhockey/index.html'
+delta7link: 'assets/delta7/www/index.html'
+physjslink: 'assets/physjs/index.html'
 
 url: http://dmarges.github.io
 # your url: http://USERNAME.github.io/
