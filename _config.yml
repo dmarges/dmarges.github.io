@@ -13,7 +13,7 @@ theprovince: 'assets/images/portfolio/theprovince.png'
 totemteardown: 'assets/images/portfolio/totemteardown.png'
 
 airhockeylink: 'assets/airhockey/index.html'
-delta7link: 'assets/delta7/www/index.html'
+delta7link: 'assets/delta7/'
 physjslink: 'assets/physjs/index.html'
 
 url: http://dmarges.github.io
