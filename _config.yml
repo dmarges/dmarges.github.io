@@ -1,5 +1,5 @@
 name: Don Marges
-bio: 'Pragmatic Software Developer'
+bio: 'JavaScript Developer'
 picture: 'assets/images/profile.jpg'
 airhockey: 'assets/images/portfolio/airhockey.png'
 connectedcity: 'assets/images/portfolio/connectedcity.png'
@@ -23,6 +23,7 @@ url: http://dmarges.github.io
 future: true
 
 analytics: 'UA-54510233-1'
+twitter: donmargesdev
 linkedin: dmarges
 github: dmarges
 email: donniemarges@gmail.com

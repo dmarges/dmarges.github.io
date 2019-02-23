@@ -26,22 +26,60 @@ a:visited {
 </style>
 
 <h2>Portfolio</h2>
-
 <hr />
 
-<h3>JavaScript/Front-End</h3>
+<p><b><a href="https://nationalpost.com" target="_new">National Post</a></b></p>
+<div class="portfolio-item">
+  <a href="https://nationalpost.com" target="_new"><img src="{{ site.url }}/{{ site.nationalpost }}" /></a>
+  <p>
+    As part of the Audience team, I write and maintain the front-end JavaScript code libraries responsible for Analytics,
+    User Sign-In and Registration, and Machine Learning.
+  </p>
+  <p>
+    It's a lot of fun because it allows me to learn a lot of systems in general and pushes me to find elegant solutions
+    which must be solid and cannot break compatibility amongst the dozens of sites and properties that the code is executed
+    on.
+  </p>
+  <p>
+    One of the constraints of the code I write is that it must be supported on as many browsers as possible to accomodate
+    all of our readers. Therefore, I only write in ES5 compatible JavaScript using only libraries written by our team with
+    very few external libraries. This has led me to appreciate JavaScript so much more and has allowed me to see that by
+    sticking with the good and solid parts of JavaScript, I can write clean and efficient code.
+  </p>
+  <b>Technologies Used:</b>
+  <ul>
+    <li>JavaScript (vanilla ES5 implementation for compatibility purposes)</li>
+  </ul>
+</div>
+
 <p><b><a href="http://www.myexpensejournal.com" target="_new">My Expense Journal</a></b></p>
 <div class="portfolio-item">
   <a href="http://www.myexpensejournal.com" target="_new"><img src="{{ site.url }}/{{ site.myexpensejournal }}" /></a>
   <p>
-    My Expense Journal is a Web Application that I created with React and Firebase and hosted on Heroku. It came from my
+    My Expense Journal is a Web Application that I created with React, Redux and Firebase and hosted on Heroku. It came from my
     frustration with other ways of tracking my expenses. I wanted something simple that I could use on my Desktop and on my Phone.
+  </p>
+  <p>
+    Another reason why I built this was because I wanted to build and maintain a "real world" Web Application with technologies that
+    I wanted to be fully comfortable with. Although I was comfortable with React, Redux, CSS3, etc. when I built this application, I
+    wanted to gain further insight and skill with Security, Hosting, Administration and Support of a Web Application with real world
+    customers.
+  </p>
+  <p>
+    Last, I just really wanted to push myself to build a tightly scoped application within a realistic time frame. Then finish it and launch
+    it into the world. I feel that this whole process is important for a Developer to go through because it provides insight into ALL facets
+    of Software Development. I feel that the one skill that trumps knowing the latest and greatest JavaScript framework, or a complicated algorithm
+    is: to ship something.
   </p>
   <b>Technologies Used:</b>
   <ul>
     <li>React</li>
+    <li>Redux</li>
+    <li>Webpack</li>
     <li>Firebase</li>
     <li>Heroku</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
   </ul>
 </div>
 
@@ -53,9 +91,15 @@ a:visited {
     developers and designers. Not only was it a great bonding experience, it helped drive home the idea that shipping a finished product
     and ruthless scope management are THE keys to a succesful project. We created the game in pure JavaScript.
   </p>
+  <p>
+    I am really proud of this game because I learned so much from this experience. I am a very strong proponent of learning more skills
+    than just knowing the JavaScript framework of the day, or the newest and fanciest functional programming language. I feel strongly
+    that soft skills like teamwork, scope management and collaboration are as important, if not more important than just raw technical skill.
+  </p>
   <b>Technologies Used:</b>
   <ul>
     <li>JavaScript</li>
+    <li>Gamepad.js</li>
     <li>HTML5</li>
     <li>CSS3</li>
   </ul>
@@ -72,11 +116,12 @@ a:visited {
   <b>Technologies Used:</b>
   <ul>
     <li>JavaScript</li>
+    <li>Phaser.js</li>
     <li>HTML5</li>
     <li>CSS3</li>
   </ul>
 </div>
-
+<!--
 <p><b><a href="{{ site.url }}/{{ site.airhockeylink }}" target="_new">Air Hockey Game</a></b></p>
 <div class="portfolio-item">
   <a href="{{ site.url }}/{{ site.airhockeylink }}" target="_new"><img src="{{ site.url }}/{{ site.airhockey }}" /></a>
@@ -123,7 +168,8 @@ a:visited {
     <li>CSS3</li>
   </ul>
 </div>
-
+-->
+<!--
 <p><b><a href="https://theprovince.com" target="_new">The Vancouver Province</a></b></p>
 <div class="portfolio-item">
   <a href="https://theprovince.com" target="_new"><img src="{{ site.url }}/{{ site.theprovince }}" /></a>
@@ -191,4 +237,4 @@ a:visited {
     <li>CSS3</li>
     <li>AWS</li>
   </ul>
-</div>
+</div>-->
